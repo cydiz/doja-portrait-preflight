@@ -1,0 +1,19 @@
+{
+  "name": "doja-portrait-preflight",
+  "version": "1.0.0",
+  "description": "Offline credit planning for portrait video projects",
+  "bin": {
+    "doja-portrait-preflight": "cli.cjs"
+  },
+  "files": [
+    "cli.cjs",
+    "core.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "license": "MIT",
+  "homepage": "https://talktomedoja.app/",
+  "engines": {
+    "node": ">=18"
+  }
+}

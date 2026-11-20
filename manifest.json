@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Portrait Preflight for Talk to Me Doja",
+  "version": "1.0.0",
+  "description": "Check local photo dimensions, export a private report and plan video credits.",
+  "action": {
+    "default_title": "Open portrait preflight"
+  },
+  "background": {
+    "service_worker": "extension.js"
+  }
+}
